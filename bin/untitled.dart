@@ -5,4 +5,9 @@ void main() {
   // 1-commit
   // 2-commit
   // 3-commit
+  mine();
+}
+
+void mine(){
+  print("Mine");
 }
